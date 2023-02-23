@@ -1,0 +1,83 @@
+.french h1 {
+    background-color: blue;
+    height: 40px;
+    width: 20px;
+    margin-block-start: 0em;
+    margin-block-end: 0.0em;
+}
+.french h2 {
+    background-color: white;
+    height: 40px;
+    width: 20px;
+    margin-block-start: 0em;
+    margin-block-end: 0.0em;
+}
+.french h3 {
+    background-color: red;
+    height: 40px;
+    width: 20px;
+    margin-block-start: 0em;
+    margin-block-end: 0.0em;
+}
+.french {
+    background-color: white;
+    height: 40px;
+    width: 60px;
+    outline: .5px solid black;
+    display: inline-flex;
+}
+
+
+.norway {
+    background-color: blue;
+    height: 50px;   
+    width: 60px;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    border: .5px solid black;
+}
+
+#first {
+    border-right: 3px solid white;
+    border-bottom: 3px solid white;
+    background-color: red;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    height: 20px;
+    width: 20px;
+}
+
+#second {
+    background-color: red;
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    height: 20px;
+    width: 30px;
+
+}
+
+#third {
+    background-color: red;
+    border-top: 3px solid white;
+    border-right: 3px solid white;
+    margin-top: 2px;
+    margin-right: 2px;
+    height: 20px;
+    width: 20px;
+
+
+}
+
+#fourth {
+    background-color: red;
+    border-top: 3px solid white;
+    border-left: 3px solid white;
+    margin-top: 2px;
+    margin-left: 2px;
+    height: 20px;
+    width: 30px;
+
+}
